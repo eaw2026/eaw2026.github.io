@@ -1,4 +1,4 @@
-I"Žz<p><img src="/images/EIW2025_Banner.png" style="pointer-events: none; user-select: none;" /></p>
+I"“z<p><img src="/images/EIW2025_Banner.png" style="pointer-events: none; user-select: none;" /></p>
 
 <!-- Latest Updates at the top of the main page! -->
 <!-- <div style="
@@ -20,7 +20,7 @@
 </div>  -->
 
 <p>
-The one-day <b>Edge Intelligence Workshop</b> focuses on the deployment of large language and vision models on edge devices such as IoT (AIoT) gadgets, smartphones, and autonomous vehicles. This workshop addresses key challenges in optimizing AI for edge environments, including lightweight model development, efficient training and inference, energy-efficient architectures, and ensuring privacy and security in decentralized systems. As AI models grow larger, deploying them efficiently at the edge becomes critical, offering opportunities for real-time decision-making, cost reduction, and democratization of AI technologies. Given ICMLâ€™s emphasis on scalable, efficient, and impactful machine learning research, this workshop will resonate with a broad audience in bridging the gap between AI research and practical deployment.
+The one-day <b>Edge Intelligence Workshop</b> focuses on the deployment of large language and vision models on edge devices such as IoT (AIoT) gadgets, smartphones, and autonomous vehicles. This workshop addresses key challenges in optimizing AI for edge environments, including lightweight model development, efficient training and inference, energy-efficient architectures, and ensuring privacy and security in decentralized systems. As AI models grow larger, deploying them efficiently at the edge becomes critical, offering opportunities for real-time decision-making, cost reduction, and democratization of AI technologies. Given COLMâ€™s emphasis on scalable, efficient, and impactful machine learning research, this workshop will resonate with a broad audience in bridging the gap between AI research and practical deployment.
 </p>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
@@ -95,8 +95,8 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	<li><s>Acceptance Notification: <b>October 09, 2024 AOE</b></s></li>
 	<li>Camera-Ready Submission: <b>October 25, 2024 AOE</b> </li>
 	<li>Workshop Date: <b>December 14, 2024 </b></li> -->
-	<li>Submission Deadline: <b>May 26, 2025 Anywhere on Earth (AOE)</b></li>
-	<li>Acceptance Notification: <b>June 09, 2025 AOE</b></li>
+	<li>Submission Deadline: <b>---, 2025 Anywhere on Earth (AOE)</b></li>
+	<li>Acceptance Notification: <b>---, 2025 AOE</b></li>
 </ul>
 </p>
 
@@ -113,14 +113,14 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 			
 				
 				<div class="card_perso column_perso" style="margin-left:13%;">
-				  <img src="/images/DanAlistarh.jpg" alt="Dan Alistarh" class="img_card_perso" />
+				  <img src="/images/masoud.jpg" alt="Masoud Asgharian" class="img_card_perso" />
 				  <div class="container_perso">
 					<center>
 					<h5>
-						<b>Dan Alistarh</b>
+						<b>Masoud Asgharian</b>
 					</h5>
 					<h6>
-						IST Austria
+						McGill University
 					</h6>
 					</center>
 				  </div>
@@ -345,7 +345,7 @@ The workshop will feature a mix of invited talks, contributed paper presentation
 						
 							<td colspan="2">(<b>Invited Talk</b>)</td>
 						
-						<td><b>Dan Alistarh</b></td>
+						<td><b>Masoud Asgharian</b></td>
 					
 				</tr>
 			
@@ -735,7 +735,7 @@ The workshop will feature a mix of invited talks, contributed paper presentation
 <p><br /></p>
 
 <!-- Technical Committee -->
-<h2 class="blackpar_title" id="technical_committee">Scientific Committee</h2>
+<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
 <p>
 	** TBD
 <!-- 
