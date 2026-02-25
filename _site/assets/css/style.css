@@ -451,4 +451,6 @@ table td { border: 1px solid #e8e8e8; }
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 
+.row_perso { display: flex !important; justify-content: center !important; }
+
 /*# sourceMappingURL=style.css.map */
